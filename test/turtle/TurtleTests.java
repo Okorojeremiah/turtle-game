@@ -1,11 +1,13 @@
-package tddClass.turtle;
+package turtle;
 
-//import com.Chapter7.Turtle.TurtlePackage.Turtles;
+import turtle.Turtles;
+import org.junit.Test;
 import org.junit.jupiter.api.*;
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 //import static com.Chapter7.Turtle.TurtlePackage.Direction.*;
 import static org.junit.jupiter.api.Assertions.*;
-import static tddClass.turtle.Direction.*;
+//import static tddClass.turtle.Direction.*;
+import static turtle.Direction.*;
 
 public class TurtleTests {
     private Turtles ijapa;

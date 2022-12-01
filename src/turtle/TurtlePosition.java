@@ -1,4 +1,4 @@
-package tddClass.turtle;
+package turtle;
 
 import java.util.Objects;
 

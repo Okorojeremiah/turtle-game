@@ -1,9 +1,11 @@
-package tddClass.turtle;
+package turtle;
 
-import tddClass.turtle.Direction;
+//import tddClass.turtle.Direction;
 
 //import static com.Chapter7.Turtle.TurtlePackage.Direction.*;
-import static tddClass.turtle.Direction.*;
+//import static tddClass.turtle.Direction.*;
+
+import static turtle.Direction.*;
 
 public class Turtles {
     private Direction currentDirection = EAST;

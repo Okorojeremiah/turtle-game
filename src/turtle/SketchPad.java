@@ -1,4 +1,4 @@
-package tddClass.turtle;
+package turtle;
 
 public class SketchPad {
     private int row;
